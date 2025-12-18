@@ -200,7 +200,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 112px;
+  padding: 112px 0;
   gap: 56px;
 }
 
