@@ -173,7 +173,7 @@ main {
   font-weight: 400;
   font-size: 18px;
   margin-top: 32px;
-  margin-bottom: 32px;
+  margin-bottom: 44px;
 }
 
 .container > a {
@@ -200,10 +200,8 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
-
-.dark-logo {
-  margin-top: 112px;
+  padding: 112px;
+  gap: 56px;
 }
 
 .social-icons {
